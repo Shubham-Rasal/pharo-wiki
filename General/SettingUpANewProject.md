@@ -26,7 +26,7 @@ Open the list of `Official distributions` in the left panel and double-click on 
 ## Step 2. Create a package and a class
 
 
-Let us make our first package. In your newly made image in Pharo Launcher, in the top menu bar choose *Tools* then *System Browser*.
+Let us make our first package. In your newly made image in Pharo Launcher, in the top menu bar choose *Browse* then *System Browser*.
 
 ![System Browser tool for developing projects in Pharo](SettingUp_SystemBrowser.png)
 
